@@ -24,6 +24,7 @@ Let’s create together.
 
   ### Language Usage
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlwhite112&layout=compact)](https://github.com/dlwhite112/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dlwhite112)](https://github.com/dlwhite112/github-readme-stats)
 
 
   ### Contact
