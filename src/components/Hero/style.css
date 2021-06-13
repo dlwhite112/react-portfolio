@@ -1,0 +1,29 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* width: 1200px; */
+  flex-wrap: wrap;
+}
+
+.landing-section {
+  background-image: url(../../assets/Background-img/Landing-bg.jpg);
+  width: 1440px;
+  height: 1024px;
+  display: flex;
+  justify-self: center;
+}
+.landing-banner {
+  /* Landing Banner */
+
+  position: relative;
+  width: 970px;
+  height: 438px;
+  left: 15rem;
+  top: 160px;
+}
+.rocket {
+  margin: 0;
+  transform: rotate(90deg);
+  width: 50px;
+}
